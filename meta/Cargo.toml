@@ -1,0 +1,11 @@
+[package]
+name = "contract-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies.mint_jeeter]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.45.1"

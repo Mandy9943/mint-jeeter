@@ -1,0 +1,8 @@
+{
+  "code": "file:output/mint_jeeter.wasm",
+  "address": {
+    "devnet": "erd1qqqqqqqqqqqqqpgq2aedflhdmr6jghrhsxufdnqh3ak22xnuq5yqmr6ccp",
+    "testnet": "",
+    "mainnet": "erd1qqqqqqqqqqqqqpgq3tzxdx7v5rzssnn30fe8fs2mwpwxnj4fq5yq60hafh"
+  }
+}
